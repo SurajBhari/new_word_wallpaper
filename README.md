@@ -1,7 +1,10 @@
 # new_word_wallpaper
 
-At the time i made this repo. i am travelling and i have a very shit internet. 
-so if you don't something new in this repo soon. open a issue and remind me that this exists (if you even exist yourself)
-rrr - C:\Users\suraj\OneDrive\Documents\py-files\daily_new_word_wallpaper> 
+
+Basically makes wallpapers ??? idk like one shown in the output directory for potrait devices </br>
+<img alt="Preview" src="output/CLOT.png" style="width: 20%; height: auto; margin: 2%" />
+<img alt="Preview" src="output/RESENTFUL.png" style="width: 20%; height: auto; margin: 2%" />
+<img alt="Preview" src="output/DISSIMILARITY.png" style="width: 20%; height: auto; margin: 2%" />
+
 
 if you reading this, "mere naseeb mein" is a great song ;)
