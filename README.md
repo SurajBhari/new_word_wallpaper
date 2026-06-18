@@ -1,5 +1,8 @@
 # New Word Wallpaper
 
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Pillow](https://img.shields.io/badge/Pillow-11557C?style=flat&logo=python&logoColor=white)
+
 Generates phone wallpapers that each feature a **random English word with its meaning, synonyms, and antonyms** — so you passively learn vocabulary every time you glance at your screen. Pair it with your phone's auto-rotating wallpaper feature to see a new word throughout the day.
 
 ## Examples
